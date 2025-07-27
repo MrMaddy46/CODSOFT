@@ -1,6 +1,6 @@
 # CodSoft Internship - Python Programming Tasks
 
-**Intern Name:** Maddy  
+**Intern Name:** Mathavan V 
 **Internship Domain:** Python Programming  
 **Organization:** CodSoft  
 **Duration:** 25 July 2025 to 25 August 2025.
